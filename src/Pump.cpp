@@ -21,7 +21,7 @@ Pump::Pump(uint8_t PumpPin, uint8_t IsRunningSensorPin, uint8_t TankLevelPin,
   interlockpin = Interlockpin;
   flowrate = FlowRate; //in Liters per hour
   tankvolume = TankVolume; //in Liters
-  tankfill = TankFill; // in percent
+  tankfill = TankFill; // in percent 
   StartTime = 0;
   LastStartTime = 0;
   StopTime = 0;

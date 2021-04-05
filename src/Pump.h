@@ -7,7 +7,7 @@ Features:
 - keeps track of Tank Levels
 - set max running time limit
 
-NB: all timings are in milliseconds
+NB: all timings are in milliseconds 
 */
 
 #ifndef PUMP_h
